@@ -1,0 +1,6 @@
+framework module Pods_IqkeyboarManager_library_usage_example {
+  umbrella header "Pods-IqkeyboarManager library usage example-umbrella.h"
+
+  export *
+  module * { export * }
+}
